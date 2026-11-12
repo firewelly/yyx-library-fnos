@@ -1,0 +1,16 @@
+{
+    ".url": {
+        "novelmgt.Application": {
+            "title": "小说管理",
+            "desc": "NAS 书库直读，无需下载整库",
+            "icon": "images/icon-{0}.png",
+            "type": "iframe",
+            "port": "12702",
+            "url": "/index.html?nas=1",
+            "control": {
+                "showRoute": 1
+            },
+            "allUsers": false
+        }
+    }
+}
